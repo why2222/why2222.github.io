@@ -10,7 +10,8 @@ tag:
     - Blog
 ---
 
-> Hello world!
+> Hello Blog!
 
 # 前言
-用GitHub Pages搭建一个blog...
+使用GitHub和Jekyll搭建一个Blog。
+以后会在这里记录有关自己学习、生活、工作的内容。
