@@ -97,11 +97,12 @@ service-worker: true
 
 
 # Friends
-#friends: [
-#    {
-#        title: "WY",
-#        href: "http://zhengwuyang.com"
-#    },{
+friends: [
+    {
+        title: "GitHub.ZZH",
+        href: "https://github.com/zzh731"
+    },
+#      {
 #        title: "简书·BY",
 #        href: "http://www.jianshu.com/u/e71990ada2fd"
 #    },{
