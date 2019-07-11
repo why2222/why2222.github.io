@@ -101,11 +101,11 @@ friends: [
     {
         title: "GitHub.ZZH",
         href: "https://github.com/zzh731"
+    },{
+        title: "GitHub.SRX",
+        href: "https://github.com/suoranxiu"
     }
-#      {
-#        title: "简书·BY",
-#        href: "http://www.jianshu.com/u/e71990ada2fd"
-#    },{
+#    {
 #        title: "Apple",
 #        href: "https://apple.com"
 #    },{
