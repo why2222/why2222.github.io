@@ -1,7 +1,7 @@
 ---
 layout:     post
-titlt:      基于OpenBTS的GSM平台搭建
-subtitle:   本文将介绍在Linux系统下基于OpenBTS的GSM平台的搭建。
+titlt:      基于OpenBTS的GSM网络搭建
+subtitle:   本文将介绍在Linux系统下基于OpenBTS的GSM网络的搭建。
 date:       2019-07-12
 author:     WHY
 header-img: img/post-bg-debug.png
