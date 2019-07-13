@@ -59,10 +59,9 @@ sudo /usr/local/lib/uhd/utils/uhd_images_downloader.py
 ```
 ## 3.安装GNURadio
 ### 3.1 下载GNURadio源码
-和UHD相同，获取GNURadio源码可以从[官网](https://www.gnuradio.org/releases/gnuradio/
-
-)和[GitHub](https://github.com/gnuradio/gnuradio/releases/tag/v3.7.13.4)上获取。这里推荐使用官网下载的源码。
+和UHD相同，获取GNURadio源码可以从[官网](https://www.gnuradio.org/releases/gnuradio/)和[GitHub](https://github.com/gnuradio/gnuradio/releases/tag/v3.7.13.4)上获取。这里推荐使用官网下载的源码。
 ### 3.2 编译安装
+将下载好的源码解压，下面开始编译安装：
 ```shell
 cd gnuradio
 mkdir build
