@@ -9,4 +9,4 @@ catalog:    true
 tag:
     - Blog
 ---
-<iframe width="600" height="400" src="../vedio/Alcohol Can Enhance Creativity—But at a Cost.mp4" frameborder="0" allowfullscreen></iframe> 
+<iframe width="600" height="400" src="http://player.youku.com/embed/XNDI0OTQ2NjQ5Ng==" frameborder="0" allowfullscreen></iframe> 
