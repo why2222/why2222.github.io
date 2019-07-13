@@ -1,7 +1,7 @@
 ---
 layout:     post
 titlt:      在Java Web中添加MySQL驱动
-subtitle:   在Java web项目中添加MySQL驱动的一些小问题
+subtitle:   在Java web项目中添加MySQL驱动时遇到的一些小问题
 date:       2019-07-13
 author:     WHY
 header-img: img/post-bg-debug.png
