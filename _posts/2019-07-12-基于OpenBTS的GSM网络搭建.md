@@ -1,6 +1,6 @@
 ---
 layout:     post
-titlt:      基于OpenBTS的GSM网络搭建
+title:      基于OpenBTS的GSM网络搭建
 subtitle:   本文将介绍在Linux系统下基于OpenBTS的GSM网络的搭建。
 date:       2019-07-12
 author:     WHY

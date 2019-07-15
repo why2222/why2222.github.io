@@ -1,6 +1,6 @@
 ---
 layout:     post
-titlt:      vedio
+title:      vedio
 subtitle:   insert a vedio
 date:       2019-07-13
 author:     WHY
