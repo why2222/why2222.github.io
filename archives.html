@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /archives/
+title: "ARCHIVES"
+description: "Industry is the parent of success."
+header-img: "img/post-bg-universe.jpg"
+---
+<ul>
+  {% for post in site.posts %}
+    {% unless post.next %}  
+      <h1>{{ post.date | date: '%Y年' }}</h1>
+      <HR align=center width=700 color=#987cb9 SIZE=1>
+      <br>
+    {% else %}
+    <HR align=center width=700 color=#987cb9 SIZE=1>
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+      {% if year != nyear %}
+        <h2>{{ post.date | date: '%Y年' }}</h2>
+      {% endif %}
+    {% endunless %}
+
+    <li>{{ post.date | date:"%Y年%m月%d日：" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
