@@ -8,7 +8,7 @@ header-img: "img/post-bg-universe.jpg"
 <ul>
   {% for post in site.posts %}
     {% unless post.next %}  
-      <h1>{{ post.date | date: '%Y年' }}</h1>
+      <h2>{{ post.date | date: '%Y年' }}</h2>
       <br>
     {% else %}
     <HR align=left width=300 color=#987cb9 SIZE=1>
