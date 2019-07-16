@@ -19,8 +19,8 @@ header-img: "img/post-bg-universe.jpg"
       {% endif %}
     {% endunless %}
 
-    <li><font size=5vim>{{ post.date | date:"%Y年%m月%d日：" }}</font> <a href="{{ post.url }}"><font size=5vim>{{ post.title }}</font></a></li>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="#D6D6D6">——&emsp;{{ post.subtitle }}</font>
+    <li><font size=4vim>{{ post.date | date:"%Y年%m月%d日：" }}</font> <a href="{{ post.url }}"><font size=4vim>{{ post.title }}</font></a></li>
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="#D6D6D6">——&emsp;{{ post.subtitle }}</font>
   {% endfor %}
 </ul>
 
