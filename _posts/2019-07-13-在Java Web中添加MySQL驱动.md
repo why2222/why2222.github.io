@@ -7,7 +7,7 @@ author:     WHY
 header-img: img/post-bg-debug.png
 catalog:    true
 tag:
-    - Java Web
+    - Java web
 ---
 # 前言
 在一个Java web项目中，需要用到MySQL数据库，但是在向项目添加MySQL的jar时，遇到了一点问题，在这里记录一下。
